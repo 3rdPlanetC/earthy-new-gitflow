@@ -1,0 +1,1 @@
+# earthy-new-gitflow
